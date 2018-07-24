@@ -1,0 +1,7 @@
+C:\Users\Black Ops\Desktop\MODS 1.4.3\TractorBeam\TractorBeam_Plugin\obj\Debug\TractorBeam.csprojResolveAssemblyReference.cache
+C:\Users\Black Ops\Desktop\MODS 1.4.3\TractorBeam\TractorBeam_Plugin\obj\Debug\TractorBeam.csproj.CoreCompileInputs.cache
+C:\Users\Black Ops\Desktop\MODS 1.4.3\TractorBeam\TractorBeam_Plugin\obj\Debug\TractorBeam.dll
+C:\Users\Black Ops\Desktop\MODS 1.4.3\TractorBeam\TractorBeam_Plugin\obj\Debug\TractorBeam.pdb
+C:\Users\Black Ops\Desktop\MODS 1.4.3\TractorBeam\TractorBeam_Plugin\obj\Debug\KSPAssets.dll
+C:\Users\Black Ops\Desktop\MODS 1.4.3\TractorBeam\TractorBeam_Plugin\obj\Debug\BDArmory.Core.dll
+C:\Users\Black Ops\Desktop\MODS 1.4.3\TractorBeam\TractorBeam_Plugin\obj\Debug\BDArmory.dll
